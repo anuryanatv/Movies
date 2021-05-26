@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/91/50/0a/91500abd4705dbb1f4f3a92870252178.jpg",Black Widow 2021
-https://4aa085edad94.ngrok.io/Black%20Widow%20Trailer.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Black%20Widow.jpg",Black Widow
+https://www.youtube.com/watch?v=zqoIdZfoUjw
 
-#EXTINF:-1 tvg-logo="https://i.redd.it/hu2iwo64lyj51.jpg",Zack Snyder's Justice League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Zack%20Snyder's%20Justice%20League.jpg",Zack Snyder's Justice League
 https://www.googleapis.com/drive/v3/files/1arI3Hdje3V5-HYmPImRjgfx7k9KWDboR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp8626135.jpg",Mortal Kombat 2021
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Mortal%20Kombat.jpg",Mortal Kombat
 https://www.googleapis.com/drive/v3/files/1z9905Zgu3xznh5MiofB9pU2S-3ph7Zin?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://mydirtsheet.files.wordpress.com/2021/04/chaoswm2mtayywjmxkeyxkfqcgdeqxvymteymjm2ndc2._v1_.jpg",Chaos Walking
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Chaos%20Walking.jpg",Chaos Walking
 https://www.googleapis.com/drive/v3/files/1ccciPm2W3H_XMQxmN-0ZmF7-hIV2HJbp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7762b4b338ecf6b2754f26702b276ef4d0199e0d9b08c18e8248d051599a3b9e._RI_V_TTW_.jpg",Godzilla vs Kong
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Godzilla%20vs%20Kong.jpg",Godzilla vs Kong
 https://www.googleapis.com/drive/v3/files/1r8NvmZHoH74A6CIxB8SRYILND1IfA1Fz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://cdn.europosters.eu/image/750/posters/raya-and-the-last-dragon-warrior-in-the-wild-i103404.jpg",Raya And The Last Dragon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Raya%20And%20The%20Last%20Dragon.jpg",Raya And The Last Dragon
 https://www.googleapis.com/drive/v3/files/1BVrxOC6cmPP13D4D5_OfpPjZsCpZJ7FU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Moxie-857438267-large.jpg",Moxie
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Moxie.jpg",Moxie
 https://www.googleapis.com/drive/v3/files/1iIl3kbpRYnVPFpTIV1UQ5RjHVf_yxAm1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-WFENNtZWaY/movieposter_en.jpg",Come True
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Come%20True.jpg",Come True
 https://www.googleapis.com/drive/v3/files/1bVIpmFmaTG50jk_SBxZabxsOKpwBfs--?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
