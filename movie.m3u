@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Eternals.jpg",Eternals
+https://github.com/anuryanatv/movies/blob/main/Trailer/Black%20Widow.mp4?raw=true
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Black%20Widow.jpg",Black Widow
 https://github.com/anuryanatv/movies/blob/main/Trailer/Black%20Widow.mp4?raw=true
 
