@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Black%20Widow.jpg",Black Widow
-https://r4---sn-w5nuxa-c33ll.googlevideo.com/videoplayback?expire=1622077807&ei=D52uYNzPGIqX1wKx2bnIAw&ip=183.88.101.100&id=o-AATPnQpUugxFT5N7aaqUudFSlmuP1h8pGDmjg9jy7Hmg&itag=22&source=youtube&requiressl=yes&mh=5v&mm=31%2C26&mn=sn-w5nuxa-c33ll%2Csn-npoe7n7r&ms=au%2Conr&mv=m&mvi=4&pl=20&initcwndbps=1231250&vprv=1&mime=video%2Fmp4&ns=KksAsMf6i0Q5BRSWdtIX3rcF&cnr=14&ratebypass=yes&dur=121.556&lmt=1617503486209950&mt=1622055425&fvip=4&fexp=24001373%2C24007246&c=WEB&txp=5535432&n=AihONZwXWJAjlvw6dH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgdwddo6JPslLHvDDptPMCSr00xKo02Ua9GuiEDPzCoooCIQDpQEtrTuIVq06_Jk2ZcfGbnYPmeMiPtsGpspYqMapSTA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAIIc-_S3Vh9vnN14_mSA-Kfa_7qtUtCJrDgsiA0S0wHrAiEAqX1Ufp2KmK4bAg6_RWCB0MjAxlxwH5TEnRW1_IYo-mw%3D&title=Marvel%20Studios%E2%80%99%20Black%20Widow%20%7C%20New%20Trailer
+https://github.com/anuryanatv/movies/blob/main/Trailer/Black%20Widow.mp4?raw=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/movies/main/M3U%20VOD%20Poster/Zack%20Snyder's%20Justice%20League.jpg",Zack Snyder's Justice League
 https://www.googleapis.com/drive/v3/files/1arI3Hdje3V5-HYmPImRjgfx7k9KWDboR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
